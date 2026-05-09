@@ -2,8 +2,8 @@
 
 -->
 ![firegif](https://files.catbox.moe/8pv3zo.gif)
-## i am spitea
-# i know: Luau, c/c++, python, a little javascript and some x86 nasm assembly
+# i am spitea
+## i know: Luau, c/c++, python, a little javascript and some x86 nasm assembly
 
 i am a minor
 i code for fun and to make games
